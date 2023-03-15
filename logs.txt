@@ -1,0 +1,70 @@
+commit 7f99f5e67ac11502c4eae7a509473c515d953c27 (HEAD -> master, origin/master, bug3)
+Author: Your Name <you@example.com>
+Date:   Wed Mar 15 14:24:17 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 8f2000b715661c92d7590e1732a222db0f4d5f3a
+Merge: da8c7af 13d9fa8
+Author: Your Name <you@example.com>
+Date:   Wed Mar 15 14:39:57 2023 +0100
+
+    Merge branch 'bug2'
+
+commit 13d9fa85c4b7d24d255cf507f9f30113fef1a303 (origin/bug2, bug2)
+Author: Your Name <you@example.com>
+Date:   Wed Mar 15 14:20:14 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit da8c7afaf1c79d2c51d51944273972f36699c9c1 (origin/bug1, bug1)
+Author: Your Name <you@example.com>
+Date:   Wed Mar 15 14:14:50 2023 +0100
+
+    Fix wrong loop for reading
+
+commit c75e4f188b27f7fe9b19d418cb868d53f0d63377
+Author: Your Name <you@example.com>
+Date:   Wed Mar 15 13:48:18 2023 +0100
+
+    Add java class
+
+commit b8a90bfbde112b5e4ce2e6af94776c1191f00d4e
+Author: Your Name <you@example.com>
+Date:   Wed Mar 15 13:44:43 2023 +0100
+
+:
+commit 7f99f5e67ac11502c4eae7a509473c515d953c27 (HEAD -> master, origin/master, bug3)
+Author: Your Name <you@example.com>
+Date:   Wed Mar 15 14:24:17 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 8f2000b715661c92d7590e1732a222db0f4d5f3a
+Merge: da8c7af 13d9fa8
+Author: Your Name <you@example.com>
+Date:   Wed Mar 15 14:39:57 2023 +0100
+
+    Merge branch 'bug2'
+
+commit 13d9fa85c4b7d24d255cf507f9f30113fef1a303 (origin/bug2, bug2)
+Author: Your Name <you@example.com>
+Date:   Wed Mar 15 14:20:14 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit da8c7afaf1c79d2c51d51944273972f36699c9c1 (origin/bug1, bug1)
+Author: Your Name <you@example.com>
+Date:   Wed Mar 15 14:14:50 2023 +0100
+
+    Fix wrong loop for reading
+
+commit c75e4f188b27f7fe9b19d418cb868d53f0d63377
+Author: Your Name <you@example.com>
+Date:   Wed Mar 15 13:48:18 2023 +0100
+
+    Add java class
+
+commit b8a90bfbde112b5e4ce2e6af94776c1191f00d4e
+Author: Your Name <you@example.com>
+Date:   Wed Mar 15 13:44:43 2023 +0100
